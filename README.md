@@ -1,5 +1,5 @@
 # Comparing Texas' current drought conditions to the 2011 drought
-
+[Read the story on my portfolio site](https://carolinaszv.github.io/texas-drought/)
 ### Goal
 
 This project analyzed the current Texas drought conditions, which are troubling many, and compared them to the worst drought Texas has experienced in recent memory, to see if we are heading down the same dangerous environment. To achieve this, I looked over the average monthly drought percentages over the same time period in the year 2011 and 2022.
